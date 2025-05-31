@@ -7,14 +7,14 @@ A comprehensive and modular deep learning pipeline to detect and classify bee be
 
 ## Pipeline Features
 
-- ✅ Supports **YOLOv5**, **YOLOv7**, and **YOLOv8**
-- ✅ Automatic environment setup and dataset validation
-- ✅ Trains or loads existing models dynamically
-- ✅ Predicts bee behaviors in video files
-- ✅ Analyzes predictions and class distribution
-- ✅ Benchmarks performance (FPS, inference time)
-- ✅ Exports models to ONNX (for YOLOv8)
-- ✅ Clean and extensible code with logging
+- Supports **YOLOv5**, **YOLOv7**, and **YOLOv8**
+- Automatic environment setup and dataset validation
+- Trains or loads existing models dynamically
+- Predicts bee behaviors in video files
+- Analyzes predictions and class distribution
+- Benchmarks performance (FPS, inference time)
+- Exports models to ONNX (for YOLOv8)
+- Clean and extensible code with logging
 
 ---
 
