@@ -141,8 +141,8 @@ This project is licensed under the MIT License.
 ---
 ## Authors
 Developed by: 
-Dr. Jason Elroy Martis - Associate Professor @NMAMIT, Nitte
-Riyaz Ahmed - Junior @NMMAIT, Nitte
-Shrisha SK - Junior @NMAMIT, Nitte
-Shreesha - Junior @NMAMIT, Nitte
+- Dr. Jason Elroy Martis - Associate Professor @NMAMIT, Nitte
+- Riyaz Ahmed - Junior @NMMAIT, Nitte
+- Shrisha SK - Junior @NMAMIT, Nitte
+- Shreesha - Junior @NMAMIT, Nitte
 
